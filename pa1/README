@@ -1,0 +1,17 @@
+*--------------------------------------*
+|		Hello.c                |
+|	Baladithya Balamurugan         |
+|	   CruzId: bbalamur            |
+|	    Class: CSE-15-1            |
+|	     Date: 10/7/19             |
+|  Prints all Subsets of a set size n  |
+*--------------------------------------*
+
+Usage:
+	make
+	Subset n k   (n and k being integers between 0 and 100)
+	make clean
+
+Usage mass test:
+	make test (generates text files with test cases and outputs)
+	make clean or cleanTest (clean: removes all including binary)(cleanTest: removes only text files)

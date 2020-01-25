@@ -1,0 +1,11 @@
+*--------------------------------------*
+|		Hello.c                |
+|	Baladithya Balamurugan         |
+|	   CruzId: bbalamur            |
+|	    Class: CSE-15-1            |
+|	     Date: 10/10/19            |
+|   Takes in a file and categorizes    | 
+|    the characters per line into      |
+|alphabetical, numerical, puncutuation,|
+|         and white spaces             |
+*--------------------------------------*

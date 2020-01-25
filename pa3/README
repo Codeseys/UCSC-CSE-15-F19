@@ -1,0 +1,29 @@
+*--------------------------------------*
+|	     Dictionary ADT            |
+|	 Baladithya Balamurugan        |
+|	    CruzId: bbalamur           |
+|	     Class: CSE-15-1           |
+|             Date: 11/12/19           |
+|   An Abstract Data Structure to add  |
+|       Dictionary - LinkedList        |
+|      Data Structure Functionality    |
+|           To The C-Lang              |
+*--------------------------------------*
+
+Instructions (DictionaryTest executable):
+	1) make clean
+	2) make
+	3) DictionaryTest
+
+Instructions (DictionaryClient# executable):
+	1) make clean
+	2) edit Makefile line 13 (where is says CLIENT) and set it to DictionaryClient#
+		# --> being the client number you want to test (1, 2, or 3)
+	4) make
+	3) DictionaryClient#
+
+Instructions (pa3 test script):
+	1) make clean
+	2) follow instructions above to choose between DictionaryTest or DictionaryClient2
+	3) follow instructions on https://github.com/kriszhao/CMPS12B-M-gradingScript/tree/master/pa3
+	4) run using command 'pa3.sh'

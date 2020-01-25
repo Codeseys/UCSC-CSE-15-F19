@@ -1,14 +1,14 @@
 #---------------------------------------------------
-# Makefile for MyHello.c with macros
+# Makefile for Queens.c with macros
 #---------------------------------------------------
 CRUZID = bbalamur
 CLASSNAME = cse015-pt.f19
-ASSIGNMENT = lab1
-EXEBIN = MyHello
+ASSIGNMENT = pa2
+EXEBIN = Queens
 SOURCES = $(EXEBIN).c
 OBJECTS = $(EXEBIN).o
 FLAGS = -std=c99 -Wall
-FILES = $(SOURCES) Makefile README
+FILES = $(SOURCES) Makefile 
 SUBMIT = submit $(CLASSNAME) $(ASSIGNMENT)
 
 $(EXEBIN) : $(OBJECTS)
@@ -23,3 +23,5 @@ check:
 	ls  /afs/cats.ucsc.edu/class/$(CLASSNAME)/$(ASSIGNMENT)/$(CRUZID)
 format: 
 	clang-format -i $(SOURCES)
+memcheck:
+	valgrind --leak-check=full $(EXEBIN) 8

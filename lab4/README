@@ -1,0 +1,13 @@
+*--------------------------------------*
+|	     Dictionary ADT            |
+|	 Baladithya Balamurugan        |
+|	    CruzId: bbalamur           |
+|	     Class: CSE-15-1           |
+|             Date: 11/12/19           |
+| an introduciton to function pointers |
+*--------------------------------------*
+
+Instructions (ArithmethicOperations executable):
+	1) make clean
+	2) make
+	3) ArithmethicOperations in1

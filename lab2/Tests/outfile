@@ -1,0 +1,912 @@
+line 1 contains:
+9 alphabetical characters: charTypec
+0 numeric characters: 
+3 punctuation characters: //.
+2 whitespace characters:  
+
+line 2 contains:
+21 alphabetical characters: BaladithyaBalamurugan
+0 numeric characters: 
+2 punctuation characters: //
+3 whitespace characters:   
+
+line 3 contains:
+14 alphabetical characters: CruzIdbbalamur
+0 numeric characters: 
+3 punctuation characters: //:
+3 whitespace characters:   
+
+line 4 contains:
+8 alphabetical characters: ClassCSE
+3 numeric characters: 151
+5 punctuation characters: //:--
+3 whitespace characters:   
+
+line 5 contains:
+4 alphabetical characters: Date
+6 numeric characters: 101019
+5 punctuation characters: //://
+3 whitespace characters:   
+
+line 6 contains:
+50 alphabetical characters: Readsafileinputandoutputstocategoriesperlineinfile
+0 numeric characters: 
+2 punctuation characters: //
+13 whitespace characters:             
+
+line 7 contains:
+13 alphabetical characters: includestdioh
+0 numeric characters: 
+4 punctuation characters: #<.>
+2 whitespace characters:  
+
+line 8 contains:
+14 alphabetical characters: includestdlibh
+0 numeric characters: 
+4 punctuation characters: #<.>
+2 whitespace characters:  
+
+line 9 contains:
+13 alphabetical characters: includectypeh
+0 numeric characters: 
+4 punctuation characters: #<.>
+2 whitespace characters:  
+
+line 10 contains:
+14 alphabetical characters: includeasserth
+0 numeric characters: 
+4 punctuation characters: #<.>
+2 whitespace characters:  
+
+line 11 contains:
+14 alphabetical characters: includestringh
+0 numeric characters: 
+4 punctuation characters: #<.>
+2 whitespace characters:  
+
+line 12 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 13 contains:
+21 alphabetical characters: defineMAXSTRINGLENGTH
+3 numeric characters: 100
+3 punctuation characters: #__
+3 whitespace characters:   
+
+line 14 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 15 contains:
+41 alphabetical characters: voidextractcharscharscharachardcharpcharw
+0 numeric characters: 
+12 punctuation characters: _(*,*,*,*,*)
+11 whitespace characters:           
+
+line 16 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+1 whitespace character: 
+
+line 17 contains:
+9 alphabetical characters: intacount
+1 numeric character: 0
+3 punctuation characters: _=;
+8 whitespace characters:        
+
+line 18 contains:
+9 alphabetical characters: intdcount
+1 numeric character: 0
+3 punctuation characters: _=;
+8 whitespace characters:        
+
+line 19 contains:
+9 alphabetical characters: intpcount
+1 numeric character: 0
+3 punctuation characters: _=;
+8 whitespace characters:        
+
+line 20 contains:
+9 alphabetical characters: intwcount
+1 numeric character: 0
+3 punctuation characters: _=;
+8 whitespace characters:        
+
+line 21 contains:
+10 alphabetical characters: forintisii
+2 numeric characters: 00
+14 punctuation characters: (=;[]!='\';++)
+13 whitespace characters:             
+
+line 22 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 23 contains:
+11 alphabetical characters: ifisalnumsi
+0 numeric characters: 
+6 punctuation characters: (([]))
+10 whitespace characters:          
+
+line 24 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+9 whitespace characters:         
+
+line 25 contains:
+11 alphabetical characters: ifisalphasi
+0 numeric characters: 
+6 punctuation characters: (([]))
+14 whitespace characters:              
+
+line 26 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+13 whitespace characters:             
+
+line 27 contains:
+9 alphabetical characters: aacountsi
+0 numeric characters: 
+7 punctuation characters: [_]=[];
+19 whitespace characters:                   
+
+line 28 contains:
+6 alphabetical characters: acount
+0 numeric characters: 
+4 punctuation characters: _++;
+17 whitespace characters:                 
+
+line 29 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+13 whitespace characters:             
+
+line 30 contains:
+4 alphabetical characters: else
+0 numeric characters: 
+0 punctuation characters: 
+13 whitespace characters:             
+
+line 31 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+13 whitespace characters:             
+
+line 32 contains:
+9 alphabetical characters: ddcountsi
+0 numeric characters: 
+7 punctuation characters: [_]=[];
+19 whitespace characters:                   
+
+line 33 contains:
+6 alphabetical characters: dcount
+0 numeric characters: 
+4 punctuation characters: _++;
+17 whitespace characters:                 
+
+line 34 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+13 whitespace characters:             
+
+line 35 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+9 whitespace characters:         
+
+line 36 contains:
+15 alphabetical characters: elseifispunctsi
+0 numeric characters: 
+6 punctuation characters: (([]))
+11 whitespace characters:           
+
+line 37 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+9 whitespace characters:         
+
+line 38 contains:
+9 alphabetical characters: ppcountsi
+0 numeric characters: 
+7 punctuation characters: [_]=[];
+15 whitespace characters:               
+
+line 39 contains:
+6 alphabetical characters: pcount
+0 numeric characters: 
+4 punctuation characters: _++;
+13 whitespace characters:             
+
+line 40 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+9 whitespace characters:         
+
+line 41 contains:
+15 alphabetical characters: elseifisspacesi
+0 numeric characters: 
+6 punctuation characters: (([]))
+11 whitespace characters:           
+
+line 42 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+9 whitespace characters:         
+
+line 43 contains:
+9 alphabetical characters: wwcountsi
+0 numeric characters: 
+7 punctuation characters: [_]=[];
+15 whitespace characters:               
+
+line 44 contains:
+6 alphabetical characters: wcount
+0 numeric characters: 
+4 punctuation characters: _++;
+13 whitespace characters:             
+
+line 45 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+9 whitespace characters:         
+
+line 46 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 47 contains:
+7 alphabetical characters: aacount
+1 numeric character: 0
+8 punctuation characters: [_]='\';
+7 whitespace characters:       
+
+line 48 contains:
+7 alphabetical characters: ddcount
+1 numeric character: 0
+8 punctuation characters: [_]='\';
+7 whitespace characters:       
+
+line 49 contains:
+7 alphabetical characters: ppcount
+1 numeric character: 0
+8 punctuation characters: [_]='\';
+7 whitespace characters:       
+
+line 50 contains:
+7 alphabetical characters: wwcount
+1 numeric character: 0
+8 punctuation characters: [_]='\';
+7 whitespace characters:       
+
+line 51 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+1 whitespace character: 
+
+line 52 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 53 contains:
+19 alphabetical characters: voidcheckercharline
+0 numeric characters: 
+3 punctuation characters: (*)
+3 whitespace characters:   
+
+line 54 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+1 whitespace character: 
+
+line 55 contains:
+4 alphabetical characters: inta
+1 numeric character: 0
+2 punctuation characters: =;
+8 whitespace characters:        
+
+line 56 contains:
+4 alphabetical characters: intd
+1 numeric character: 0
+2 punctuation characters: =;
+8 whitespace characters:        
+
+line 57 contains:
+4 alphabetical characters: intp
+1 numeric character: 0
+2 punctuation characters: =;
+8 whitespace characters:        
+
+line 58 contains:
+4 alphabetical characters: intw
+1 numeric character: 0
+2 punctuation characters: =;
+8 whitespace characters:        
+
+line 59 contains:
+13 alphabetical characters: forintilineii
+2 numeric characters: 00
+14 punctuation characters: (=;[]!='\';++)
+13 whitespace characters:             
+
+line 60 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 61 contains:
+14 alphabetical characters: ifisalnumlinei
+0 numeric characters: 
+6 punctuation characters: (([]))
+10 whitespace characters:          
+
+line 62 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+9 whitespace characters:         
+
+line 63 contains:
+14 alphabetical characters: ifisalphalinei
+0 numeric characters: 
+6 punctuation characters: (([]))
+14 whitespace characters:              
+
+line 64 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+13 whitespace characters:             
+
+line 65 contains:
+1 alphabetical character: a
+0 numeric characters: 
+3 punctuation characters: ++;
+17 whitespace characters:                 
+
+line 66 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+13 whitespace characters:             
+
+line 67 contains:
+4 alphabetical characters: else
+0 numeric characters: 
+0 punctuation characters: 
+13 whitespace characters:             
+
+line 68 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+13 whitespace characters:             
+
+line 69 contains:
+1 alphabetical character: d
+0 numeric characters: 
+3 punctuation characters: ++;
+17 whitespace characters:                 
+
+line 70 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+13 whitespace characters:             
+
+line 71 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+9 whitespace characters:         
+
+line 72 contains:
+18 alphabetical characters: elseifispunctlinei
+0 numeric characters: 
+6 punctuation characters: (([]))
+11 whitespace characters:           
+
+line 73 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+9 whitespace characters:         
+
+line 74 contains:
+1 alphabetical character: p
+0 numeric characters: 
+3 punctuation characters: ++;
+13 whitespace characters:             
+
+line 75 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+9 whitespace characters:         
+
+line 76 contains:
+18 alphabetical characters: elseifisspacelinei
+0 numeric characters: 
+6 punctuation characters: (([]))
+11 whitespace characters:           
+
+line 77 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+9 whitespace characters:         
+
+line 78 contains:
+1 alphabetical character: w
+0 numeric characters: 
+3 punctuation characters: ++;
+13 whitespace characters:             
+
+line 79 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+9 whitespace characters:         
+
+line 80 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 81 contains:
+31 alphabetical characters: printfdalphabeticalcharactersna
+0 numeric characters: 
+8 punctuation characters: ("%\",);
+8 whitespace characters:        
+
+line 82 contains:
+26 alphabetical characters: printfdnumericcharactersnd
+0 numeric characters: 
+8 punctuation characters: ("%\",);
+8 whitespace characters:        
+
+line 83 contains:
+24 alphabetical characters: printfdpunctcharactersnp
+0 numeric characters: 
+8 punctuation characters: ("%\",);
+8 whitespace characters:        
+
+line 84 contains:
+29 alphabetical characters: printfdwhitespacecharactersnw
+0 numeric characters: 
+8 punctuation characters: ("%\",);
+8 whitespace characters:        
+
+line 85 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+1 whitespace character: 
+
+line 86 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 87 contains:
+17 alphabetical characters: charispluralcharq
+0 numeric characters: 
+4 punctuation characters: *(*)
+3 whitespace characters:   
+
+line 88 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+1 whitespace character: 
+
+line 89 contains:
+16 alphabetical characters: ifstrlenqstrlenq
+2 numeric characters: 01
+11 punctuation characters: (()==||()>)
+12 whitespace characters:            
+
+line 90 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 91 contains:
+16 alphabetical characters: returncharacters
+0 numeric characters: 
+3 punctuation characters: "";
+10 whitespace characters:          
+
+line 92 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 93 contains:
+4 alphabetical characters: else
+0 numeric characters: 
+0 punctuation characters: 
+5 whitespace characters:     
+
+line 94 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 95 contains:
+15 alphabetical characters: returncharacter
+0 numeric characters: 
+3 punctuation characters: "";
+10 whitespace characters:          
+
+line 96 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 97 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+1 whitespace character: 
+
+line 98 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 99 contains:
+27 alphabetical characters: intmainintargccharconstargv
+0 numeric characters: 
+6 punctuation characters: (,*[])
+6 whitespace characters:      
+
+line 100 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+1 whitespace character: 
+
+line 101 contains:
+6 alphabetical characters: FILEfi
+0 numeric characters: 
+2 punctuation characters: *;
+6 whitespace characters:      
+
+line 102 contains:
+6 alphabetical characters: FILEfo
+0 numeric characters: 
+2 punctuation characters: *;
+6 whitespace characters:      
+
+line 103 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 104 contains:
+6 alphabetical characters: ifargc
+1 numeric character: 3
+4 punctuation characters: (!=)
+8 whitespace characters:        
+
+line 105 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 106 contains:
+36 alphabetical characters: printfUsagesinputfileoutputfilenargv
+1 numeric character: 0
+13 punctuation characters: (":%--\",[]);
+13 whitespace characters:             
+
+line 107 contains:
+15 alphabetical characters: exitEXITFAILURE
+0 numeric characters: 
+4 punctuation characters: (_);
+9 whitespace characters:         
+
+line 108 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 109 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 110 contains:
+23 alphabetical characters: openinputfileforreading
+0 numeric characters: 
+2 punctuation characters: //
+10 whitespace characters:          
+
+line 111 contains:
+18 alphabetical characters: iffifopenargvrNULL
+1 numeric character: 1
+15 punctuation characters: ((=([],"+"))==)
+11 whitespace characters:           
+
+line 112 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 113 contains:
+32 alphabetical characters: printfUnabletoreadfromfilesnargv
+1 numeric character: 1
+10 punctuation characters: ("%\",[]);
+15 whitespace characters:               
+
+line 114 contains:
+15 alphabetical characters: exitEXITFAILURE
+0 numeric characters: 
+4 punctuation characters: (_);
+9 whitespace characters:         
+
+line 115 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 116 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 117 contains:
+24 alphabetical characters: openoutputfileforwriting
+0 numeric characters: 
+2 punctuation characters: //
+10 whitespace characters:          
+
+line 118 contains:
+18 alphabetical characters: iffofopenargvwNULL
+1 numeric character: 2
+15 punctuation characters: ((=([],"+"))==)
+11 whitespace characters:           
+
+line 119 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 120 contains:
+31 alphabetical characters: printfUnabletowritetofilesnargv
+1 numeric character: 2
+10 punctuation characters: ("%\",[]);
+15 whitespace characters:               
+
+line 121 contains:
+15 alphabetical characters: exitEXITFAILURE
+0 numeric characters: 
+4 punctuation characters: (_);
+9 whitespace characters:         
+
+line 122 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 123 contains:
+43 alphabetical characters: charlinecharcallocMAXSTRINGLENGTHsizeofchar
+0 numeric characters: 
+13 punctuation characters: *=(*)(__,());
+10 whitespace characters:          
+
+line 124 contains:
+40 alphabetical characters: characharcallocMAXSTRINGLENGTHsizeofchar
+0 numeric characters: 
+13 punctuation characters: *=(*)(__,());
+10 whitespace characters:          
+
+line 125 contains:
+40 alphabetical characters: chardcharcallocMAXSTRINGLENGTHsizeofchar
+0 numeric characters: 
+13 punctuation characters: *=(*)(__,());
+10 whitespace characters:          
+
+line 126 contains:
+40 alphabetical characters: charpcharcallocMAXSTRINGLENGTHsizeofchar
+0 numeric characters: 
+13 punctuation characters: *=(*)(__,());
+10 whitespace characters:          
+
+line 127 contains:
+40 alphabetical characters: charwcharcallocMAXSTRINGLENGTHsizeofchar
+0 numeric characters: 
+13 punctuation characters: *=(*)(__,());
+10 whitespace characters:          
+
+line 128 contains:
+34 alphabetical characters: assertlineNULLaNULLdNULLpNULLwNULL
+0 numeric characters: 
+21 punctuation characters: (!=&&!=&&!=&&!=&&!=);
+23 whitespace characters:                       
+
+line 129 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 130 contains:
+8 alphabetical characters: rewindfi
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 131 contains:
+8 alphabetical characters: intcount
+1 numeric character: 1
+2 punctuation characters: =;
+8 whitespace characters:        
+
+line 132 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+0 punctuation characters: 
+1 whitespace character: 
+
+line 133 contains:
+16 alphabetical characters: whilefgetslinefi
+3 numeric characters: 100
+6 punctuation characters: ((,,))
+8 whitespace characters:        
+
+line 134 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: {
+5 whitespace characters:     
+
+line 135 contains:
+11 alphabetical characters: checkerline
+0 numeric characters: 
+5 punctuation characters: //();
+10 whitespace characters:          
+
+line 136 contains:
+28 alphabetical characters: fprintffolinedcontainsncount
+0 numeric characters: 
+10 punctuation characters: (,"%:\",);
+13 whitespace characters:             
+
+line 137 contains:
+20 alphabetical characters: extractcharslineadpw
+0 numeric characters: 
+8 punctuation characters: _(,,,,);
+13 whitespace characters:             
+
+line 138 contains:
+45 alphabetical characters: fprintffodalphabeticalssnintstrlenaispluralaa
+0 numeric characters: 
+20 punctuation characters: (,"%%:%\",()(),(),);
+16 whitespace characters:                
+
+line 139 contains:
+40 alphabetical characters: fprintffodnumericssnintstrlendispluraldd
+0 numeric characters: 
+20 punctuation characters: (,"%%:%\",()(),(),);
+16 whitespace characters:                
+
+line 140 contains:
+44 alphabetical characters: fprintffodpunctuationssnintstrlenpispluralpp
+0 numeric characters: 
+20 punctuation characters: (,"%%:%\",()(),(),);
+16 whitespace characters:                
+
+line 141 contains:
+43 alphabetical characters: fprintffodwhitespacessnintstrlenwispluralww
+0 numeric characters: 
+20 punctuation characters: (,"%%:%\",()(),(),);
+16 whitespace characters:                
+
+line 142 contains:
+5 alphabetical characters: count
+0 numeric characters: 
+3 punctuation characters: ++;
+9 whitespace characters:         
+
+line 143 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+5 whitespace characters:     
+
+line 144 contains:
+8 alphabetical characters: fclosefi
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 145 contains:
+8 alphabetical characters: fclosefo
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 146 contains:
+8 alphabetical characters: freeline
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 147 contains:
+5 alphabetical characters: freea
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 148 contains:
+5 alphabetical characters: freed
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 149 contains:
+5 alphabetical characters: freep
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 150 contains:
+5 alphabetical characters: freew
+0 numeric characters: 
+3 punctuation characters: ();
+5 whitespace characters:     
+
+line 151 contains:
+6 alphabetical characters: return
+1 numeric character: 0
+1 punctuation character: ;
+6 whitespace characters:      
+
+line 152 contains:
+0 alphabetical characters: 
+0 numeric characters: 
+1 punctuation character: }
+1 whitespace character: 
+

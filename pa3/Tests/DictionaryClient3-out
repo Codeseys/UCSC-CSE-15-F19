@@ -1,0 +1,76 @@
+line 1:	 //-----------------------------------------------------------------------------
+line 2:	 // DictionaryClient3.c
+line 3:	 // Yet another test client for the Dictionary ADT, stronger still. Uses its 
+line 4:	 // own source code to make a Dictionary with line numbers a keys, and lines
+line 5:	 // as values.
+line 6:	 //-----------------------------------------------------------------------------
+line 7:	 #include<stdio.h>
+line 8:	 #include<stdlib.h>
+line 9:	 #include<string.h>
+line 10:	 #include"Dictionary.h"
+line 11:	 
+line 12:	 #define MAX_LEN 250  // Maximum length of a line in the input file
+line 13:	 
+line 14:	 int main(){
+line 15:	    Dictionary A = newDictionary();
+line 16:	    FILE* in = fopen("DictionaryClient3.c", "r");
+line 17:	    FILE* out = fopen("DictionaryClient3-out", "w");
+line 18:	    char* str;
+line 19:	    char* key;
+line 20:	    char* value;
+line 21:	    char* keyBuffer = NULL;
+line 22:	    char* valBuffer = NULL;
+line 23:	    int keyBufferOffset = 0, valBufferOffset = 0;
+line 24:	    int keyBufferLength = 0, valBufferLength = 0;
+line 25:	    char line[MAX_LEN+1];
+line 26:	    char label[MAX_LEN+1];
+line 27:	    int i, labelLength, lineLength, lineNumber = 0;
+line 28:	    
+line 29:	    // read input files
+line 30:	    while( fgets(line, MAX_LEN, in)!=NULL ){
+line 31:	       
+line 32:	       // put line in valBuffer
+line 33:	       lineNumber++;
+line 34:	       lineLength = strlen(line)-1;
+line 35:	       line[lineLength] = '\0';  // overwrite newline '\n' with null '\0'
+line 36:	       valBufferLength += (lineLength+1);
+line 37:	       valBuffer = realloc(valBuffer, valBufferLength*sizeof(char) );
+line 38:	       value = &valBuffer[valBufferOffset];
+line 39:	       strcpy(value, line);
+line 40:	       valBufferOffset = valBufferLength;
+line 41:	       
+line 42:	       // put label in keyBuffer
+line 43:	       sprintf(label, "line %d:\t", lineNumber);
+line 44:	       labelLength = strlen(label);
+line 45:	       keyBufferLength += (labelLength+1);
+line 46:	       keyBuffer = realloc(keyBuffer, keyBufferLength*sizeof(char) );
+line 47:	       key = &keyBuffer[keyBufferOffset];
+line 48:	       strcpy(key, label);
+line 49:	       keyBufferOffset = keyBufferLength;
+line 50:	    }
+line 51:	 
+line 52:	    // put keys and values in dictionary A
+line 53:	    keyBufferOffset = valBufferOffset = 0;
+line 54:	    for(i=0; i<lineNumber; i++){
+line 55:	       key = &keyBuffer[keyBufferOffset];
+line 56:	       value = &valBuffer[valBufferOffset];
+line 57:	       insert(A, key, value);
+line 58:	       keyBufferOffset += (strlen(key) + 1);
+line 59:	       valBufferOffset += (strlen(value) + 1);
+line 60:	    } 
+line 61:	 
+line 62:	    // print out the Dictionary
+line 63:	    str = DictionaryToString(A);
+line 64:	    fprintf(out, "%s\n", str);
+line 65:	    free(str);
+line 66:	 
+line 67:	    // free memory and close files
+line 68:	    freeDictionary(&A);
+line 69:	    free(keyBuffer);
+line 70:	    free(valBuffer);
+line 71:	    fclose(in);
+line 72:	    fclose(out);
+line 73:	 
+line 74:	    return(EXIT_SUCCESS);
+line 75:	 }
+

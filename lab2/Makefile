@@ -3,8 +3,8 @@
 #---------------------------------------------------
 CRUZID = bbalamur
 CLASSNAME = cse015-pt.f19
-ASSIGNMENT = lab1
-EXEBIN = MyHello
+ASSIGNMENT = lab2
+EXEBIN = charType
 SOURCES = $(EXEBIN).c
 OBJECTS = $(EXEBIN).o
 FLAGS = -std=c99 -Wall
@@ -23,3 +23,5 @@ check:
 	ls  /afs/cats.ucsc.edu/class/$(CLASSNAME)/$(ASSIGNMENT)/$(CRUZID)
 format: 
 	clang-format -i $(SOURCES)
+memcheck:
+	valgrind --leak-check=full $(EXEBIN) $(SOURCES) outfile

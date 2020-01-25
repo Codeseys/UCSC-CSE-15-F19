@@ -1,0 +1,28 @@
+2 b
+7 g
+4 d
+3 c
+5 e
+1 a
+6 f
+
+k=0, value=(null)
+k=1, value=a
+k=2, value=b
+k=3, value=c
+k=4, value=d
+k=5, value=e
+k=6, value=f
+k=7, value=g
+k=8, value=(null)
+k=9, value=(null)
+k=10, value=(null)
+
+2 b
+4 d
+5 e
+6 f
+
+size(A) = 4
+size(A) = 0
+

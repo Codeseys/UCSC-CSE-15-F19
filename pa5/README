@@ -1,0 +1,28 @@
+*--------------------------------------*
+|	         Dictionary ADT            |
+|   	 Baladithya Balamurugan        |
+|	        CruzId: bbalamur           |
+|	         Class: CSE-15-1           |
+|             Date: 12/06/19           |
+|   An Abstract Data Structure to add  |
+|       Dictionary - HashTables        |
+|      Data Structure Functionality    |
+|           To The C-Lang              |
+|    and utilize it in a simulation    |
+*--------------------------------------*
+
+Instructions (DictionaryTest executable):
+	1) make clean
+	2) make
+	3) DictionaryTest
+
+Instructions (DictionaryClient# executable):
+	1) make clean
+    2) open Makefile and change the CLIENT macro to the respective DictionaryClient# you want to compile and run
+	2) make
+	3) DictionaryClient3
+
+Instructions (pa5 test script):
+	1) make clean
+	2) follow instructions on https://github.com/kriszhao/CMPS12B-M-gradingScript/tree/master/pa5
+	3) run using command 'pa5.sh'

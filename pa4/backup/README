@@ -1,0 +1,28 @@
+*--------------------------------------*
+|	        IntegerQueue ADT           |
+|            and Simulation            |
+|   	 Baladithya Balamurugan        |
+|	        CruzId: bbalamur           |
+|	         Class: CSE-15-1           |
+|             Date: 11/12/19           |
+|   An Abstract Data Structure to add  |
+|       IntegerQueue - LinkedList      |
+|      Data Structure Functionality    |
+|           To The C-Lang              |
+|    and utilize it in a simulation    |
+*--------------------------------------*
+
+Instructions (Simulation executable):
+	1) make clean
+	2) make
+	3) Simulation
+
+Instructions (IntegerQueueTest executable):
+	1) make clean
+	2) make
+	3) IntegerQueueTest
+
+Instructions (pa3 test script):
+	1) make clean
+	2) follow instructions on https://github.com/kriszhao/CMPS12B-M-gradingScript/tree/master/pa4
+	3) run using command 'pa3.sh'

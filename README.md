@@ -2,6 +2,7 @@
 My labs and programming assignments done in/for the CSE 15 - Intoduction to Data Structures class at UCSC.
 
 [Course Website](https://classes.soe.ucsc.edu/cse015/Fall19/)
+
 [UCSC Catalog](https://catalog.ucsc.edu/Current/General-Catalog/Courses/CSE-Computer-Science-and-Engineering/Lower-Division/CSE-15)
 
 This course is titled CSE 15 - Introduction to Data Structures (formerly CMPS 12B).
